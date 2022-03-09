@@ -2,6 +2,10 @@
 
  This is a Teensy 3.2 LIN master controlling a NCV7430 RGB LED driver
   
- http://skpang.co.uk/catalog/ncv7430-linbus-rgb-led-breakout-baord-p-1569.html
+https://www.skpang.co.uk/collections/teensy/products/teensy-can-bus-and-lin-bus-breakout-board-include-teensy-3-2
+
+https://www.skpang.co.uk/collections/breakout-boards/products/ncv7430-lin-bus-rgb-led-breakout-baord
+
+
   
  
